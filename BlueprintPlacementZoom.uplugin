@@ -1,0 +1,33 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1.0",
+	"SemVersion": "0.1.0",
+	"GameVersion": ">=416835",
+	"FriendlyName": "Blueprint Zoomer",
+	"Description": "Extends blueprint placement range and only zooms the camera out while placing large blueprints.",
+	"Category": "Modding",
+	"CreatedBy": "OpenAI Codex",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "BlueprintPlacementZoom",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.11.3"
+		}
+	]
+}

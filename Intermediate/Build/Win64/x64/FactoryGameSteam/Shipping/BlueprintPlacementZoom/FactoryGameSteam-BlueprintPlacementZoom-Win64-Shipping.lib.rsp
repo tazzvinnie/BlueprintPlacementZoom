@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/LTCG
+/DEF
+/NAME:"FactoryGameSteam-BlueprintPlacementZoom-Win64-Shipping.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\SatisfactoryModding\StarterProject\Intermediate\Build\Win64\x64\FactoryGameSteam\Shipping\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"D:\SatisfactoryModding\StarterProject\Mods\BlueprintPlacementZoom\Intermediate\Build\Win64\x64\FactoryGameSteam\Shipping\BlueprintPlacementZoom\Module.BlueprintPlacementZoom.cpp.obj"
+"D:\SatisfactoryModding\StarterProject\Mods\BlueprintPlacementZoom\Intermediate\Build\Win64\x64\FactoryGameSteam\Shipping\BlueprintPlacementZoom\Default.rc2.res"
+/OUT:"D:\SatisfactoryModding\StarterProject\Mods\BlueprintPlacementZoom\Intermediate\Build\Win64\x64\FactoryGameSteam\Shipping\BlueprintPlacementZoom\FactoryGameSteam-BlueprintPlacementZoom-Win64-Shipping.lib"
