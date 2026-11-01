@@ -1,19 +1,19 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "0.1.0",
-	"SemVersion": "0.1.0",
-	"GameVersion": ">=416835",
+	"VersionName": "1.0.0",
+	"SemVersion": "1.0.0",
+	"GameVersion": ">=491125",
 	"FriendlyName": "Blueprint Zoomer",
-	"Description": "Extends blueprint placement range and only zooms the camera out while placing large blueprints.",
+	"Description": "Extends blueprint placement range and zooms the camera out while placing blueprints. Toggle and hold-to-scroll zoom keys are rebindable under Options > Controls. Based on Blueprint Zoomer by tazzvinnie.",
 	"Category": "Modding",
-	"CreatedBy": "OpenAI Codex",
-	"CreatedByURL": "",
+	"CreatedBy": "leanwrldd",
+	"CreatedByURL": "https://github.com/tazzvinnie/BlueprintPlacementZoom",
 	"DocsURL": "",
 	"MarketplaceURL": "",
 	"SupportURL": "",
-	"CanContainContent": false,
-	"IsBetaVersion": true,
+	"CanContainContent": true,
+	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
 	"Installed": false,
 	"Modules": [
@@ -27,7 +27,7 @@
 		{
 			"Name": "SML",
 			"Enabled": true,
-			"SemVersion": "^3.11.3"
+			"SemVersion": "^3.12.0"
 		}
 	]
 }

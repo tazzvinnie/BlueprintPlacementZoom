@@ -15,6 +15,7 @@ public class BlueprintPlacementZoom : ModuleRules
 				"CoreUObject",
 				"Engine",
 				"InputCore",
+				"EnhancedInput",
 				"FactoryGame",
 				"SML"
 			}
